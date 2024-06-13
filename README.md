@@ -5,7 +5,7 @@ A project to generate a free and simple digital collection site using [GitHub Pa
 - a CSV of collection metadata
 - a folder of JPEG images, PDF documents, MP3s, or links to videos hosted on YouTube or Vimeo
 
-Visit my [class project site](https://github.com/TanGardner/Dream-Lab-Repository).
+Visit my [class project site](https://tangardner.github.io/Dream-Lab-Repository/).
 
 ## Build a Digital Collection
 
