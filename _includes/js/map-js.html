@@ -8,7 +8,10 @@
 {% endif %}
 {%- assign items = items | where_exp: 'item', 'item.objectid != nil' | where_exp: 'item','item.latitude' -%}
 
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.subject contains "church"' | where_exp: 'item','item.location contains "West"' -%}
+<!-- use this line to filter only to churches
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.subject contains "church"' | where_exp: 'item','item.location contains "West"' -%} -->
+{%- assign items = site.data[site.metadata] | where_exp: 'item','item.location contains "West"' -%}
+
 {%- assign fields = site.data.config-map -%}
 <!-- load leaflet dependencies -->
 <script src="{{ '/assets/lib/leaflet/leaflet.js' | relative_url }}"></script>
