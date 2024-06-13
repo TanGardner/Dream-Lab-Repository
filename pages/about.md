@@ -15,7 +15,7 @@ This site is generated using [CollectionBuilder-GH](https://collectionbuilding.g
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
 
-The repository features historic sites from the Preservation Alliances of Greater Philadelphia's [Inventoruy of African American Historic Sites](https://preservationalliance.com/explore-historic-philadelphia/historic-inventory/). 
+The repository features historic sites from the Preservation Alliances of Greater Philadelphia's [Inventory of African American Historic Sites](https://preservationalliance.com/explore-historic-philadelphia/historic-inventory/). 
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
